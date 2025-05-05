@@ -15,9 +15,9 @@ Ce dépôt contient des notebooks pédagogiques autour des **fondamentaux du Dee
 
 - 👉 [Lancer `01_Premier_neurone.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/01_Premier_neurone.ipynb)
 - 👉 [Lancer `02_Activation-Functions.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/02_Activation-Functions.ipynb)
-- 👉 [Lancer `02_Activation-Functions.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/03_Reseaux_Neurones_Denses_Keras.ipynb)
-- 👉 [Lancer `02_Activation-Functions.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/04_RNN_Keras.ipynb)
-- 👉 [Lancer `02_Activation-Functions.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/16-CNN-MNIST.ipynb)
+- 👉 [Lancer `03_Reseaux_Neurones_Denses_Keras.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/03_Reseaux_Neurones_Denses_Keras.ipynb)
+- 👉 [Lancer `04_RNN_Keras.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/04_RNN_Keras.ipynb)
+- 👉 [Lancer `16-CNN-MNIST.ipynb` sur Colab](https://colab.research.google.com/github/Fred-Zang/AJC-Deep_Learning_fondamentaux/blob/main/16-CNN-MNIST.ipynb)
 
 ## 💡 Instructions
 
