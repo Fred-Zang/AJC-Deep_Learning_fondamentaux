@@ -14,7 +14,7 @@ Ce dépôt contient des notebooks pédagogiques autour des **fondamentaux du Dee
 
 ## 🚀 Exécuter le support de cours sru excalidraw.com
 
-- 🧠 [Ouvrir le schéma Excalidraw](https://excalidraw.com/#json=https://raw.githubusercontent.com/Fred-Zang/AJC-ML_etat_art/main/Deep_Learnbing_fondamentaux.excalidraw)
+- 🧠 [Ouvrir le support de cours Excalidraw](https://excalidraw.com/#json=https://raw.githubusercontent.com/Fred-Zang/AJC-ML_etat_art/main/Deep_Learnbing_fondamentaux.excalidraw)
 
 ## 🚀 Exécuter les notebooks sur Google Colab
 
