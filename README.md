@@ -4,6 +4,7 @@ Ce dépôt contient des notebooks pédagogiques autour des **fondamentaux du Dee
 
 ## 📁 Contenu du dépôt
 
+- `Deep_Learnbing_fondamentaux.excalidraw` : support de cours à lancer sur un navigateur excalidraw.com (clic sur ouvrir le fichier à sélectionner)
 - `01_Premier_neurone.ipynb` : Perceptron from scratch
 - `02_Activation-Functions.ipynb` : principales fonctions d'activation
 - `03_Reseaux_Neurones_Denses_Keras.ipynb` : ANN MLP sur dataset 'iris' simple + ajout de dropout et early stopping
