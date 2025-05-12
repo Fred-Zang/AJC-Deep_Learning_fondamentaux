@@ -12,7 +12,7 @@ Ce dépôt contient des notebooks pédagogiques autour des **fondamentaux du Dee
 - `16-CNN-MNIST.ipynb` : Réseau de neurones convolutif (CNN) sur le dataset MNIST avec Keras et PyTorch en backend
 - `iris.csv` : Données utilisées pour la classification Iris
 
-## 🚀 Exécuter le support de cours sru excalidraw.com
+## 🚀 Exécuter le support de cours sur excalidraw.com
 
 - 🧠 [Ouvrir le support de cours Excalidraw](https://excalidraw.com/#json=https://raw.githubusercontent.com/Fred-Zang/AJC-ML_etat_art/main/Deep_Learnbing_fondamentaux.excalidraw)
 
